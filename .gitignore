@@ -1,0 +1,46 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Django specific logs and static files
+*.log
+*.pot
+*.pyc
+*.pyo
+staticfiles/
+
+# Database and media (allow committing for final submission)
+!db.sqlite3
+!media/
+
+# Environment variables
+.env
+*.env
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage files
+.coverage
+htmlcov/
+.tox/
+.nox/
+pytest_cache/
+
+# Node / frontend files (if using npm/yarn for frontend)
+node_modules/
+dist/
+build/

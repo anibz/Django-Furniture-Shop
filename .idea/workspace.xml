@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="Add README.md">
+    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="Add media and static parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/furniture_store/furniture_store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/furniture_store/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762765210657</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add media and static parameters">
+      <option name="closed" value="true" />
+      <created>1762768485986</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762768485986</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +132,7 @@
     <MESSAGE value="Create django project" />
     <MESSAGE value="Add static folder" />
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Add media and static parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add media and static parameters" />
   </component>
 </project>

@@ -22,9 +22,19 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+
+    # API endpoints
+    path('api/', include('products.urls')),
+    path('api/', include('cart.urls')),
+    path('api/', include('orders.urls')),
+    path('api/', include('users.urls')),
 ]
+
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
+admin.site.site_header = 'ავეჯის მაღაზიის Admin პანელი'
+admin.site.site_title = 'ავეჯის მაღაზია'
+admin.site.index_title = 'მართვის პანელი'

@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="update" />
+    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="create admin (again)">
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/furniture_store/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763222925300</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="create admin (again)">
+      <option name="closed" value="true" />
+      <created>1763223396072</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763223396072</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +171,7 @@
     <MESSAGE value="Add media and static parameters" />
     <MESSAGE value="Some update" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="create admin (again)" />
+    <option name="LAST_COMMIT_MESSAGE" value="create admin (again)" />
   </component>
 </project>

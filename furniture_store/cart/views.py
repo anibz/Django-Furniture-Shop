@@ -7,7 +7,7 @@ from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import filters
 
-from .models import Category, Product
+from products.models import Product
 from .serializers import CategorySerializer, ProductSerializer, ProductListSerializer
 
 

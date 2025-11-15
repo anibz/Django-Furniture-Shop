@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FinalProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762770924583</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1763222925300</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763222925300</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +148,7 @@
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add media and static parameters" />
     <MESSAGE value="Some update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

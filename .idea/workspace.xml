@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="Add serializers.py">
-      <change afterPath="$PROJECT_DIR$/furniture_store/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/orders/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/products/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/furniture_store/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/cart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/cart/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/orders/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/orders/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/products/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/users/views.py" afterDir="false" />
+    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="add more">
+      <change afterPath="$PROJECT_DIR$/furniture_store/populate_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/furniture_store/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +44,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.populate_db.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\FinalProject" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="populate_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/furniture_store" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/furniture_store/populate_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.populate_db" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -169,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763238012295</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add more">
+      <option name="closed" value="true" />
+      <created>1763238532883</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763238532883</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +216,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="create admin (again)" />
     <MESSAGE value="Add serializers.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add serializers.py" />
+    <MESSAGE value="add more" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more" />
   </component>
 </project>

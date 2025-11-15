@@ -1,1 +1,7 @@
 Django==5.2.8
+djangorestframework==3.14.0
+Pillow==10.4.0
+celery==5.4.0
+redis==5.0.8
+django-cors-headers==4.4.0
+django-filter==24.3

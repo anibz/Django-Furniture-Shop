@@ -4,9 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="Add media and static parameters">
+    <list default="true" id="37632db3-b190-4ee7-a8a6-8c48078acbb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/orders/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/products/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/furniture_store/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FinalProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/furniture_store/furniture_store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/furniture_store/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/furniture_store/furniture_store/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,37 +45,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "anibz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anibz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/anibz/Django-Furniture-Shop.git",
-    "accountId": "73a513b8-2a3b-42df-9bd1-fed99d1ac0b1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anibz/Django-Furniture-Shop.git&quot;,
+    &quot;accountId&quot;: &quot;73a513b8-2a3b-42df-9bd1-fed99d1ac0b1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="35HEHsKTikfRZSRnZUkfcKgbmn9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\FinalProject" />
@@ -123,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762768485986</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Some update">
+      <option name="closed" value="true" />
+      <created>1762770924583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762770924583</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +171,7 @@
     <MESSAGE value="Add static folder" />
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add media and static parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add media and static parameters" />
+    <MESSAGE value="Some update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some update" />
   </component>
 </project>
